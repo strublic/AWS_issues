@@ -1,4 +1,4 @@
- > Impossible to send file to s3 this message is acusing this error:
+Impossible to send file to s3 this message is acusing this error:
  
     `Error storing "file_name" status: 0`
 
